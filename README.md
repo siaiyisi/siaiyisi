@@ -1,6 +1,6 @@
 ## 四爱什么意思e 👋
 
-<https:// siaiyisi.github.io>
+<https://siaiyisi.github.io>
 
 <!--
 **siaiyisi/siaiyisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
